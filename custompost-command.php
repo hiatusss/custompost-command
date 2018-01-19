@@ -9,4 +9,4 @@ if ( file_exists( $autoload ) ) {
 	require_once $autoload;
 }
 
-WP_CLI::add_command( 'custom', 'Custom_Command');
+WP_CLI::add_command( 'custompost', 'Custompost_Command');
