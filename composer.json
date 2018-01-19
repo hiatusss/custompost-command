@@ -1,5 +1,5 @@
 {
-    "name": "hiatusss/custompost-command"
+    "name": "hiatusss/custompost-command",
     "description": "Custom post can use external files",
     "type": "wp-cli-package",
     "homepage": "https://github.com/hiatusss/custompost-command",
