@@ -17,19 +17,7 @@
         ]
     },
     "require": {
+        "php": ">=5.3.29",
         "wp-cli/wp-cli": "*"
-    },
-    "require-dev": {
-        
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.x-dev"
-        },
-        "commands": [
-            "custompost",
-            "custompost create"
-        ],
-        "bundled": true
     }
 }
